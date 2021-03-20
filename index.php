@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 </head>
 <body>
-	<h1>Manejador de Tareas</h1>				
+	<h1>Manejador de Tareas - D12</h1>				
 	<form method="POST" action="store.php">				<!-- Se envia a store.php con el action -->
 		<label for="tarea">Nombre de Tarea</label><br>
 		<input type="text" name="tarea">
